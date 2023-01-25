@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/apple.jpg</file>
+        <file>sounds/eating-apple.wav</file>
+    </qresource>
+    <qresource prefix="/i18n"/>
+</RCC>
